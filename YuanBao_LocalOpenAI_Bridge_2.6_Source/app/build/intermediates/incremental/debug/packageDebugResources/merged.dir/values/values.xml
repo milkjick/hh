@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        
+    </string-array>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <string name="app_name">Application</string>
+    <string name="xposed_activated">"Xposed: Activated"</string>
+    <string name="xposed_unactivated">"Xposed: Unactivated"</string>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">?android:colorPrimary</item>
+	</style>
+</resources>
