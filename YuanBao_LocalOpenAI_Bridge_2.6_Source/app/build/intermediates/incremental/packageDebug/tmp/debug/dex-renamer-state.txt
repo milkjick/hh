@@ -1,0 +1,7 @@
+#Sun Sep 13 16:42:04 UTC 2026
+base.1=/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+path.1=14/classes.dex
+base.0=/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
