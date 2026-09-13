@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.yuanbaossehook.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "123,169,216",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "164,211,262"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "9",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "450",
+                        "endLines": "16",
+                        "endColumns": "9",
+                        "endOffsets": "832"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,104,169",
+                        "endColumns": "48,64,68",
+                        "endOffsets": "99,164,233"
+                    },
+                    "to": {
+                        "startLines": "8,9,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "267,316,381",
+                        "endColumns": "48,64,68",
+                        "endOffsets": "311,376,445"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/res/values/arrays.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "19",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "19",
+                        "endOffsets": "118"
+                    }
+                }
+            ]
+        }
+    ]
+}
