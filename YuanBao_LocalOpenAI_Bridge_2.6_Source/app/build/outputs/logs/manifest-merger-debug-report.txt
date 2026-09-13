@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:5:5-22:19
+INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:5:5-22:19
+	android:extractNativeLibs
+		INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:6:9-39
+	android:allowBackup
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:7:9-35
+meta-data#xposedmodule
+ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:10:9-12:36
+	android:value
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:12:13-33
+	android:name
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:11:13-40
+meta-data#xposeddescription
+ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:14:9-16:67
+	android:value
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:16:13-64
+	android:name
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:15:13-45
+meta-data#xposedminversion
+ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:18:9-20:34
+	android:value
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:20:13-31
+	android:name
+		ADDED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:19:13-44
+uses-sdk
+INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml
+INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml
