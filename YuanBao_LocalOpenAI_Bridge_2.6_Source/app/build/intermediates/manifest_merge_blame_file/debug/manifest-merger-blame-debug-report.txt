@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.yuanbaossehook"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:3:5-67
+11-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:3:22-64
+12
+13    <application
+13-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:5:5-22:19
+14        android:allowBackup="true"
+14-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:7:9-35
+15        android:debuggable="true"
+16        android:extractNativeLibs="true"
+17        android:label="YuanBaoSSEHook"
+17-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:6:9-39
+18        android:supportsRtl="true" >
+18-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:8:9-35
+19        <meta-data
+19-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:10:9-12:36
+20            android:name="xposedmodule"
+20-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:11:13-40
+21            android:value="true" />
+21-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:12:13-33
+22        <meta-data
+22-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:14:9-16:67
+23            android:name="xposeddescription"
+23-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:15:13-45
+24            android:value="元宝本地 OpenAI API 反代桥（127.0.0.1:8318）" />
+24-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:16:13-64
+25        <meta-data
+25-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:18:9-20:34
+26            android:name="xposedminversion"
+26-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:19:13-44
+27            android:value="54" />
+27-->/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/AndroidManifest.xml:20:13-31
+28    </application>
+29
+30</manifest>
