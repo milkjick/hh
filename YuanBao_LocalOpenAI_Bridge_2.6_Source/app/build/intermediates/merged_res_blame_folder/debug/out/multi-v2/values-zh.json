@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.yuanbaossehook.app-mergeDebugResources-2:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/Download/YuanBao_LocalOpenAI_Bridge_2.6_Source/app/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,60",
+                        "endOffsets": "109,170"
+                    }
+                }
+            ]
+        }
+    ]
+}
