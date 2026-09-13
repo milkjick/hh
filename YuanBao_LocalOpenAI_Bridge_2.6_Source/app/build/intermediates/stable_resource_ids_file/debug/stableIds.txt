@@ -1,0 +1,10 @@
+com.example.yuanbaossehook:style/AppTheme = 0x7f060000
+com.example.yuanbaossehook:string/app_name = 0x7f050000
+com.example.yuanbaossehook:layout/activity_main = 0x7f040000
+com.example.yuanbaossehook:drawable/ic_launcher = 0x7f030000
+com.example.yuanbaossehook:color/colorPrimaryDark = 0x7f020002
+com.example.yuanbaossehook:color/colorPrimary = 0x7f020001
+com.example.yuanbaossehook:string/xposed_unactivated = 0x7f050002
+com.example.yuanbaossehook:string/xposed_activated = 0x7f050001
+com.example.yuanbaossehook:color/colorAccent = 0x7f020000
+com.example.yuanbaossehook:array/xposed_scope = 0x7f010000
